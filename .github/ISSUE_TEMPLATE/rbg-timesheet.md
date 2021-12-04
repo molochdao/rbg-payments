@@ -1,7 +1,7 @@
 ---
 name: RBG TimeSheet
 about: RBG - Payment Request (Time)
-title: Name - Payment Request - Time
+title: NAME - Payment Request - Time
 labels: ''
 assignees: ''
 
