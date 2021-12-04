@@ -10,8 +10,9 @@ assignees: ''
 # MolochDAO - The Really Boring Guild - Payments (Expense)
 
 ## Payment Request:
-* Owner: xxx
+* Owner:
 * Amount to pay in ETH:
+* Date of expense:
 * USD value of ETH on date of expense:
 
 or
@@ -20,11 +21,12 @@ or
 Supporting Documentation (ie TX ID, link to invoice):
 
 
-**To be filled out by multisig member**
+
 ## Payment Processing
+**To be filled out by multisig member**
+
 * Date paid:
 * Multisig Nonce: 
 * Amount paid:
 
-## Status
 (link to multisig transaction here)

@@ -23,8 +23,10 @@ Summary of work in this time period:
 
 Detailed time tracking or other supporting info:
 
-**To be filled out by multisig member:**
+
 ## Payment Processing
+**To be filled out by multisig member:**
+
 * Date paid:
 * Multisig Nonce: 
 * Amount paid:
