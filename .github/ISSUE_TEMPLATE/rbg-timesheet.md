@@ -1,8 +1,8 @@
 ---
 name: RBG TimeSheet
-about: RBG - Payment Request (Time)
-title: NAME - Payment Request - Time
-labels: ''
+about: Use this for hourly work + expenses (if any)
+title: NAME - Payment Request - Detail
+labels: payments
 assignees: ''
 
 ---
@@ -17,20 +17,29 @@ assignees: ''
 * USD value of ETH on last day of period: 
 * Amount to pay in ETH:
 
-**If applicable, any expenses:**
-* Expense description: 
-* Expense amt in USD:
-* Value of ETH on the day of expense:
+## Payment Request (Expenses):
+* Owner:
 * Amount to pay in ETH:
-(If the expense was incurred in ETH, just fill out the amount to pay in ETH)
 
-* Wallet address:
+List expenses here (or upload a sheet containing this info for each expense):
+
+* Date of expense
+* Expense description
+* Expense amount
+* If USD, provide USD value of ETH on date of expense
+* Amount of expense in ETH (to be paid in ETH):
+
+Supporting Documentation (ie TX ID, invoice link or upload)
+
 
 Summary of work in this time period:
 
 
 Detailed time tracking or other supporting info:
 
+
+* Total amount to pay (list requested currency): 
+* Wallet address:
 
 ## Payment Processing
 **To be filled out by multisig member:**
@@ -39,5 +48,4 @@ Detailed time tracking or other supporting info:
 * Multisig Nonce: 
 * Amount paid:
 
-## Status
 (link to multisig transaction here)
