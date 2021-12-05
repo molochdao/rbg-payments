@@ -2,7 +2,7 @@
 name: RBG Expenses
 about: Use this to submit payment request when it's expenses only
 title: NAME - Expense + Period - Nonce
-labels: ''
+labels: payments
 assignees: ''
 
 ---
