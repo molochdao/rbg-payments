@@ -1,7 +1,7 @@
 ---
 name: RBG TimeSheet
 about: Use this for hourly work + expenses (if any)
-title: NAME - Payment Request - Detail
+title: NAME - Hours or Expense + Period - Nonce
 labels: payments
 assignees: ''
 
@@ -43,8 +43,6 @@ Summary of work in this time period:
 Detailed time tracking or other supporting info:
 
 
-* Total amount to pay (list requested currency): 
-* Wallet address:
 
 ## Payment Processing
 **To be filled out by multisig member:**

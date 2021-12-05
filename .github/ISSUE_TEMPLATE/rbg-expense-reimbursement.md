@@ -1,7 +1,7 @@
 ---
 name: RBG Expense Reimbursement
 about: Use this to submit payment request when it's expenses only
-title: NAME - Payment Request - Detail
+title: NAME - Expense + Period - Nonce
 labels: ''
 assignees: ''
 
