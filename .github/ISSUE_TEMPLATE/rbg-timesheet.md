@@ -11,20 +11,18 @@ assignees: ''
 
 ## Payment Request:
 * Owner:
-* Amount to pay in ETH:
+* Amount to pay + requested currency:
 * Wallet: 
 
 ## Hourly Work - Detail:
-* Owner: xxx
 * Time period: 
 * Total hours:
 * Rate: 
+* Total in USD:
 * USD value of ETH on last day of period: 
 * Amount to pay in ETH:
 
 ## Expenses - Detail:
-* Owner:
-* Amount to pay in ETH:
 
 List expenses here (or upload a sheet containing this info for each expense):
 
