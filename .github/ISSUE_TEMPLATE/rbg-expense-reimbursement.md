@@ -1,7 +1,7 @@
 ---
 name: RBG Expense Reimbursement
-about: RBG Payment Request (Expense)
-title: NAME - Payment Request - Expense
+about: Use this to submit payment request when it's expenses only
+title: NAME - Payment Request - Detail
 labels: ''
 assignees: ''
 
@@ -12,15 +12,16 @@ assignees: ''
 ## Payment Request:
 * Owner:
 * Amount to pay in ETH:
-* Date of expense:
-* USD value of ETH on date of expense:
 
-or
-*Amount of expense in ETH (to be paid in ETH):
+List expenses here (or upload a sheet containing this info for each expense):
 
-Supporting Documentation (ie TX ID, link to invoice):
+* Date of expense
+* Expense description
+* Expense amount
+* If USD, provide USD value of ETH on date of expense
+* Amount of expense in ETH (to be paid in ETH):
 
-
+Supporting Documentation (ie TX ID, invoice link or upload)
 
 ## Payment Processing
 **To be filled out by multisig member**
