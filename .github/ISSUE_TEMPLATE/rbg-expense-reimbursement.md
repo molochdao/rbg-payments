@@ -12,7 +12,9 @@ assignees: ''
 ## Payment Request:
 * Owner:
 * Amount to pay in ETH:
+* Wallet: 
 
+## Expense Details:
 List expenses here (or upload a sheet containing this info for each expense):
 
 * Date of expense

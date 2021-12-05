@@ -9,7 +9,12 @@ assignees: ''
 
 # MolochDAO - The Really Boring Guild - Payments
 
-## Payment Request (Time):
+## Payment Request:
+* Owner:
+* Amount to pay in ETH:
+* Wallet: 
+
+## Hourly Work - Detail:
 * Owner: xxx
 * Time period: 
 * Total hours:
@@ -17,7 +22,7 @@ assignees: ''
 * USD value of ETH on last day of period: 
 * Amount to pay in ETH:
 
-## Payment Request (Expenses):
+## Expenses - Detail:
 * Owner:
 * Amount to pay in ETH:
 
